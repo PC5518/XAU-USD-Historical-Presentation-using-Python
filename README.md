@@ -14,7 +14,7 @@ This repository documents Project Chronos, a computational framework designed to
 ### **Demonstration: Watch the Result of the Code**
 
 
-[![Demo of the My Graphical Past 25 Years Gold Performance in Youtube](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PKw80sqkzRQ)
+[![Demo of the My Graphical Past 25 Years Gold Performance in Youtube](https://img.youtube.com/vi/PKw80sqkzRQ/0.jpg)](https://www.youtube.com/watch?v=PKw80sqkzRQ)
 <img width="1299" height="692" alt="image" src="https://github.com/user-attachments/assets/a21a554b-e3cf-4efb-8478-a3e43d8eeefa" />
 
 ---
