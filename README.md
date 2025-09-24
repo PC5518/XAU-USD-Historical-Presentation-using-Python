@@ -15,7 +15,7 @@ This repository documents Project Chronos, a computational framework designed to
 
 *(Action Required: Replace the URL below with your YouTube link. The preview will embed automatically.)*
 
-[![Project Chronos Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PKw80sqkzRQ "Project Chronos: An Animated History")
+[![Project Chronos Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PKw80sqkzRQ)
 
 ---
 
