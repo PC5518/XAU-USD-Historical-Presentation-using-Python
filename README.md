@@ -1,5 +1,5 @@
 # XAU-USD-Historical-Presentation-using-Python
-# Project Chronos: A Narrative Visualization of Economic History
+# Project : A Narrative Visualization of Economic History
 
 ### An exploration into the art of storytelling with data, contextualizing 24 years of market dynamics against the defining events of the 21st century.
 
@@ -7,7 +7,7 @@
 
 ### **Project Abstract**
 
-This repository documents Project Chronos, a computational framework designed to transform raw time-series data into an animated historical narrative. Using gold prices (`GC=F`) as a case study, this project tackles a fundamental challenge in data science: **How can we visualize data not just as a static record, but as a dynamic, unfolding story?** By algorithmically connecting market fluctuations to major geopolitical and economic events, Chronos aims to make the intricate relationship between history and finance intuitive and accessible.
+This repository documents Project , a computational framework designed to transform raw time-series data into an animated historical narrative. Using gold prices (`GC=F`) as a case study, this project tackles a fundamental challenge in data science: **How can we visualize data not just as a static record, but as a dynamic, unfolding story?** By algorithmically connecting market fluctuations to major geopolitical and economic events, This project aims to make the intricate relationship between history and finance intuitive and accessible.
 
 ---
 
@@ -27,7 +27,7 @@ NOTE: it's not just a graph but a full scale animation.
 
 In an age saturated with information, we are surrounded by charts and graphs. While factually accurate, these static visualizations often fail to convey the most critical dimension: the narrative of cause and effect over time. A simple line on a graph cannot adequately represent the human drama of a market crash or the global significance of a political crisis.
 
-Project Chronos was conceived to bridge this gap. The objective was to build a system that treats financial data not as a static artifact, but as a sequence of events. The result is a tool that tells a story, designed to foster a deeper understanding of complex historical trends for any audience, regardless of their financial expertise.
+This Project was conceived to bridge this gap. The objective was to build a system that treats financial data not as a static artifact, but as a sequence of events. The result is a tool that tells a story, designed to foster a deeper understanding of complex historical trends for any audience, regardless of their financial expertise.
 
 ## 2. My Approach: Engineering a Visual Narrative
 
@@ -55,7 +55,7 @@ My solution was to develop a "narrative engine" in Python that renders the story
 
 This project reinforced my belief that the most impactful solutions often lie at the intersection of disparate fields—in this case, computer science, economics, and history. The challenge was as much about curating a historical narrative as it was about writing code.
 
-The Chronos framework is inherently extensible and serves as a foundation for exciting future work, demonstrating a forward-looking perspective:
+The Project's framework is inherently extensible and serves as a foundation for exciting future work, demonstrating a forward-looking perspective:
 
 *   **Collaborative Potential:** The system could evolve into a collaborative platform where users contribute different event datasets (e.g., technological milestones, climate policies), allowing for the exploration of new correlations.
 *   **Solving Real-World Problems:** This visualization technique could be adapted for other critical datasets, such as tracking climate change indicators against environmental policies or analyzing public health data against government interventions, thereby helping to make complex cause-and-effect relationships more understandable for policymakers and the public.
