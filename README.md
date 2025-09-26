@@ -1,5 +1,6 @@
 # XAU-USD-Historical-Presentation-using-Python
-# Project : A Narrative Visualization of Economic History
+# Project : A Narrative Visualization of Economic History   NOTE: it's not just a graph but a full scale animation.
+
 
 ### An exploration into the art of storytelling with data, contextualizing 24 years of market dynamics against the defining events of the 21st century.
 
@@ -13,7 +14,7 @@ This repository documents Project , a computational framework designed to transf
 
 ### **Demonstration: Watch the Result of the Code**
 
-Click Here to watch to watch the demo:
+Click Here to watch to watch the demo: 👉🏻
 [![Demo of the My Graphical Past 25 Years Gold Performance in Youtube]()](https://www.youtube.com/watch?v=PKw80sqkzRQ)
 
 
